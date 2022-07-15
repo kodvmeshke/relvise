@@ -185,7 +185,7 @@ body {
 		flex: 1 1 100%;
 	}
 }
-@media (mix-width: 479px) {
+@media (min-width: 479px) {
 	.main-block__button:not(:last-child) {
 		margin-right: 10px;
 	}
